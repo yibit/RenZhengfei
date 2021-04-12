@@ -1,0 +1,8 @@
+_book
+node_modules
+yarn.lock
+.DS_Store
+*.tags
+*.gz
+*.tar
+*~
